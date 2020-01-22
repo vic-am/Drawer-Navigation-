@@ -24,12 +24,6 @@
         tools:layout="@layout/fragment_clientes" />
 
     <fragment
-        android:id="@+id/nav_contato"
-        android:name="br.com.victoramaral.atmconsultoria.ui.contato.ContatoFragment"
-        android:label="@string/menu_contato"
-        tools:layout="@layout/fragment_contato" />
-
-    <fragment
         android:id="@+id/nav_sobre"
         android:name="br.com.victoramaral.atmconsultoria.ui.sobre.SobreFragment"
         android:label="@string/menu_sobre"
